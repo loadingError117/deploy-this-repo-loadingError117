@@ -1,3 +1,4 @@
+<!--
 <script>
 	import ContainerTable from '$lib/ContainerTable.svelte';
 	export let data;
@@ -17,3 +18,14 @@
 <ContainerTable containers={data.containers} onContainerClicked={containerClicked} />
 
 <span class=i>Last container clicked: {clickedContainerNumber}</span>
+-->
+
+<script lang="ts">
+    export let data;
+</script>
+
+<div>
+  {#each data.cart as { id, quantity } (id)}
+    <div>{id} - {quantity}</div>
+  {/each}
+</div>
