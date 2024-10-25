@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 # NEED TO UPDATE BELOW
-<https://localhost:5173/>
+https://deploy-this-repo-loading-error117-8jrsvrxio.vercel.app/
 
 
