@@ -25,6 +25,6 @@
 *Comments and feedback welcome!*
 
 # Where am I deployed?
-https://deploy-this-repo-loading-error117-8jrsvrxio.vercel.app/
+https://deploy-this-repo-loading-error117.vercel.app/
 
 
